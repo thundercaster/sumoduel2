@@ -1,0 +1,10 @@
+name: SumoDuelPlugin
+version: '${project.version}'
+main: me.thundercaster.sumoduelplugin.SumoDuelPlugin
+api-version: 1.16
+authors: [ Thundercaster ]
+description: creates a sumo arena
+commands:
+  SumoDuel:
+    description: creates a sumo arena for you and a friend
+    usage: /<command>
